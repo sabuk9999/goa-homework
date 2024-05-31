@@ -13,7 +13,6 @@ height = 180.5 #es aris floot tipis cvladi (atwiladi)
 #boolLean (bool) tipis cvladi
 
 knows_programming = True # true or false
-is_ugly = False
 
 
 
@@ -27,7 +26,7 @@ print(name + " " + str(age))
 
 print(name + " " + str(height))
 print(name + str(knows_programming))
-print(name + str(is_ugly))
+
 
 
 
